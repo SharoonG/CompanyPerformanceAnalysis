@@ -38,3 +38,6 @@ Power BI: Used for data visualization.
 Power Query: For data transformation and preparation.
 DAX: For creating calculated columns and measures.
 
+
+
+
