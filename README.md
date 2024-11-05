@@ -1,7 +1,12 @@
 # Plant Co. Sales Performance 2024
 
 ## Overview
-This Power BI report provides an in-depth analysis of the s performance of Plant Co. for the year 2024. The report focuses on key metrics like Year-to-Date (YTD) Sales, Prior Year-to-Date (PYTD) Sales, Quantity Sold, and Gross Profit (GP%). It also includes a comparative analysis between YTD and PYTD to help identify trends and variances.
+This Power BI report provides an in-depth analysis of the performance of Plant Co. for the years 2024, 2023 and 2022. The report focuses on key metrics like Year-to-Date (YTD) Sales, Prior Year-to-Date (PYTD) Sales, Quantity Sold, and Gross Profit (GP%). It also includes a comparative analysis between YTD and PYTD to help identify trends and variances.
+
+![Sales](images/Sales%20AnalysisSales.png)
+![Quantity](images/Sales%20AnalysisQuantity.png)
+![GP](images/Sales%20AnalysisGP.png)
+
 
 ## Key Features
 ### 1. **Sales YTD vs PYTD by Country | Top 5**
